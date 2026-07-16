@@ -47,3 +47,5 @@ git push
 ```
 
 6. แจ้งพี่ ๆ พร้อม GitHub username ของน้องว่างานของน้องเสร็จแล้ว แล้วพี่ ๆ จะเข้าไป comment งานของน้องเองงงง
+
+![Task details for Workshop 3](./workshop3.png)
